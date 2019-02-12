@@ -10,8 +10,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
-            Console.WriteLine("Oh,hi , BLVRD");
+            Console.WriteLine("Hello,mtf!");
+            Console.WriteLine("Oh,hi , dude");
         }
     }
 }
